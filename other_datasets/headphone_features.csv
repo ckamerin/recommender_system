@@ -1,0 +1,5 @@
+﻿headphone_name,price,attached_mic,recording_quality,noise_handling,Impedance,sensitivity(dbv),accuracy,weighted_harmonic_distortion,soundstage,imaging,noise_isolation,wireless,over_ear_style,on_ear_style,in_ear_style,open_back,close_back,semiclosed_back
+Senheisser Game One,179,1,8.7,8.8,50,116,7.9,8,7.5,8.6,1.5,0,1,0,0,1,0,0
+AKG K702,200,0,0,0,63,105,7.8,8.7,8.3,9.1,2,0,1,0,0,1,0,0
+Apple Airpods,140,1,6.4,6.1,0,118,6.83,7.8,2.9,8.5,1.1,1,0,0,1,0,1,0
+Senheisser HD 800 S,1700,0,0,0,300,103,8.2,8.5,9.2,9.1,1.5,0,1,0,0,1,0,0

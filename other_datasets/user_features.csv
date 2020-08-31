@@ -1,0 +1,6 @@
+﻿user_id,game_use,rec_use,studio_use,exercise_use,office_use,podcast_use,travel_use,other_use,sound_quality_importance,positional_importance,loud_importance,mic_importance,wireless_importance,in_ear_importance,on_ear_importance,over_ear_importance,no_pref_oninover,price_sensitivity,min_price,max_price
+1,1,1,0,0,0,0,0,0,8,10,10,10,7,0,0,1,0,10,0,150
+2,0,1,1,0,0,0,0,0,10,5,3,0,2,0,0,1,0,3,0,350
+3,0,1,0,1,1,0,1,0,6,0,8,7,10,1,0,0,0,7,0,100
+4,0,1,1,0,0,1,0,0,9,0,6,0,0,0,0,1,0,1,100,2000
+5,1,0,0,0,0,0,0,0,10,10,10,0,0,0,0,1,0,3,0,300

@@ -1,0 +1,5 @@
+﻿user_id,game_use,rec_use,studio_use,exercise_use,office_use,podcast_use,travel_use,other_use,sound_quality_importance,positional_importance,loud_importance,mic_importance,wireless_importance,in_ear_importance,on_ear_importance,over_ear_importance,no_pref_oninover,price_sensitivity,min_price,max_price,headphone_name,price,attached_mic,recording_quality,noise_handling,Impedance,sensitivity(dbv),accuracy,weighted_harmonic_distortion,soundstage,imaging,noise_isolation,wireless,over_ear_style,on_ear_style,in_ear_style,open_back,close_back,semiclosed_back
+1,1,1,0,0,0,0,0,0,8,10,10,10,7,0,0,1,0,10,0,150,Senheiser Game One,179,1,8.7,8.8,50,116,7.9,8,7.5,8.6,1.5,0,1,0,0,1,0,0
+2,0,1,1,0,0,0,0,0,10,5,3,0,2,0,0,1,0,3,0,350,AKG K702,200,0,0,0,63,105,7.8,8.7,8.3,9.1,2,0,1,0,0,1,0,0
+3,0,1,0,1,1,0,1,0,6,0,8,7,10,1,0,0,0,7,0,100,Apple Airpods,140,1,6.4,6.1,0,118,6.83,7.8,2.9,8.5,1.1,1,0,0,1,0,1,0
+4,0,1,1,0,0,1,0,0,9,0,6,0,0,0,0,1,0,1,100,2000,Senheisser HD 800 S,1700,0,0,0,300,103,8.2,8.5,9.2,9.1,1.5,0,1,0,0,1,0,0
