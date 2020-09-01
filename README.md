@@ -26,3 +26,4 @@ TBD Currently used features available in the datasets in the data_in_use folders
 
 Files
 
+After cleaning up the useless ones we will provide a definition of those remaining. This remains a work in progress. 
