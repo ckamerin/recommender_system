@@ -6,7 +6,7 @@ It may in some form utilize different forms of Regression, Deep Artificial Neura
 
 It will remain a work in progress. Long term goals include adding more common methods of recomender systems such as user-based and item-based collaborative filtering as more real data is obtained. 
 
-Current issues remain in obtaining real data so we will explore data augmentation and bootstrapping.
+Current issues remain in obtaining real data so we will explore artificial creation of data, data augmentation, and bootstrapping while collecting real data.
 
 # 1. Problem Definition
 
