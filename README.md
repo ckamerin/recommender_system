@@ -18,7 +18,7 @@ The data is obtained from various online sources but is for the most part in thi
 
 # 3. Evaluation
 
-TBD We will utilize a custom loss function and have yet to decide on our metrics for accuracy.
+TBD
 
 # 4. Features
 
@@ -26,4 +26,5 @@ TBD Currently used features available in the datasets in the data_in_use folders
 
 # Files
 
-After cleaning up the useless ones we will provide a definition of those remaining. This remains a work in progress. 
+Will be updated later will full list and file function
+
