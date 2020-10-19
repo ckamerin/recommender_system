@@ -1,3 +1,12 @@
+# Project Discontinued
+Decided to focus efforts on a new project. This served mostly as an educational opportunity with GANs and Neural Networks for prediction
+
+
+
+
+
+Original README
+
 # Recommender_System
 
 This project aims to take user data obtained through a questionaire and utilize neural networks in order to recommend a headset that best fits their use case based on headphone parameters. 
