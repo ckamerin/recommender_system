@@ -5,9 +5,9 @@ Decided to focus efforts on a new project. This served mostly as an educational 
 
 
 
-Original README
+# Original README
 
-# Recommender_System
+Recommender_System
 
 This project aims to take user data obtained through a questionaire and utilize neural networks in order to recommend a headset that best fits their use case based on headphone parameters. 
 
@@ -17,23 +17,19 @@ It will remain a work in progress. Long term goals include adding more common me
 
 Current issues remain in obtaining real data so we will explore artificial creation of data, data augmentation, and bootstrapping while collecting real data.
 
-# 1. Problem Definition
+1. Problem Definition
 
 How useful a recommendation can we get?
 
-# 2. Data
+2. Data
 
 The data is obtained from various online sources but is for the most part in this stage synthetic data created just to test useability of the code. 
 
-# 3. Evaluation
+3. Evaluation
 
 TBD
 
-# 4. Features
+4. Features
 
 TBD Currently used features available in the datasets in the data_in_use folders.  
-
-# Files
-
-Will be updated later will full list and file function
 
