@@ -1,5 +1,5 @@
 # Project Discontinued
-Decided to focus efforts on a new project. This served mostly as an educational opportunity with GANs and Neural Networks for prediction
+This served mostly as an opportunity to play with with GANs and Neural Networks for prediction
 
 
 
